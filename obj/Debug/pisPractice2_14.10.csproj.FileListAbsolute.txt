@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\pisPractice2_14.10\obj\Debug\pisPractice2_14.10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pisPractice2_14.10\obj\Debug\pisPractice2_14.10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pisPractice2_14.10\bin\Debug\pisPractice2_14.10.exe.config
+C:\Users\user\source\repos\pisPractice2_14.10\bin\Debug\pisPractice2_14.10.exe
+C:\Users\user\source\repos\pisPractice2_14.10\bin\Debug\pisPractice2_14.10.pdb
+C:\Users\user\source\repos\pisPractice2_14.10\obj\Debug\pisPractice2_14.10.exe
+C:\Users\user\source\repos\pisPractice2_14.10\obj\Debug\pisPractice2_14.10.pdb
